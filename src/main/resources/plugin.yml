@@ -1,0 +1,4 @@
+name: DeathmatchMinigame
+main: jasper.deathmatchminigame.DeathmatchMinigame
+author: Jasper Reddin
+version: 1.0-SNAPSHOT
